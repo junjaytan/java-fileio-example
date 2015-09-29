@@ -12,7 +12,7 @@ import java.io.IOException;
  * see: http://crunchify.com/how-to-read-convert-csv-comma-separated-values-file-to-arraylist-in-java-using-split-operation/
  */
 public class csvReader {
-    public static void main(String[] args) {
+    public void readCsv() {
         //BufferedReader reader = null;
 
         try {
